@@ -1,4 +1,6 @@
-# this is Shopee Viber Bot MVP 
+# ShopeePartner Viber Bot MVP
+![ChatBot](https://media.giphy.com/media/gjTcoOmoIn01EcV1ZP/giphy.gif "chat")  
+
 
 # Tech Stack
 - Node.js express
