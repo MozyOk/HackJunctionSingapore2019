@@ -17,9 +17,7 @@
 
 # System Design
 
-(TODO: FIX HERE)
-![Design](https://drive.google.com/uc?export=view&id=1PHKHpteHJvKsii3OohCO76BioMNLrns- "Design")  
-
+![Design](https://drive.google.com/uc?export=view&id=1jrRdiNUevV0trXaZfi0s8Dk9_hNIaAde "Design")  
 # MEMO
 `https://dry-island-34567.herokuapp.com/thingspeack`
 
