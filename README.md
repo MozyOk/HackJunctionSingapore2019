@@ -16,8 +16,6 @@
 
 # How to Use
 `add bot contact for your Viber`  
-![QR Code](https://drive.google.com/uc?export=view&id=1QEeEbRMltIHLaqyTtTbgOVIgrlgZfyvj "QR")  
-
 `npm install && npm start`  
 
 # System Design
