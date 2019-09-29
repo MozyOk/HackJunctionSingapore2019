@@ -2,12 +2,15 @@
 ![ChatBot](https://media.giphy.com/media/gjTcoOmoIn01EcV1ZP/giphy.gif "chat")  
 
 
+## Voice Analytics Data 　
+![Voice Analytics](https://drive.google.com/uc?export=view&id=10_hCL9gxOsXgFaDnX8gIpAdGR5paCOKS "Voice Analytics") 
+
 # Tech Stack
 - Node.js express
 - Rakuten Viber API
 - Dialogflow
 - ThingSpeak
-- our made original Voice Recognition Tool
+- original Voice Recognition Tool
 - MATLAB
 - Heroku
 
