@@ -14,7 +14,7 @@ router.post('/', function(req, res, next) {
     let latestData = thingspeakData.feeds[thingspeakData.feeds.length-1].field1;
     let userName = ""
 
-    if( latestData >= 35){
+    if( latestData >= 42){
       userName = "Moussa"
     }
     else{
