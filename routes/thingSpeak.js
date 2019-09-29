@@ -21,7 +21,7 @@ router.post('/', function(req, res, next) {
       userName = "Nassim"
     }
 
-    let textResponse = `Hi ${userName}, What are u want to buy Today?`;
+    let textResponse = `Hi ${userName}, What do u want to buy Today?`;
     res.send(createTextResponse(textResponse));
 
   }).catch((err) => {
